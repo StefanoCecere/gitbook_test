@@ -1,8 +1,16 @@
-# Game Jam
+---
+description: sedetevi pure
+---
 
-![](.gitbook/assets/ggj-logo.png)
+# Benvenuti
 
-Inizia oggi la GLobal Game Jam
+ecco il primo gitbook di Stefano!
+
+{% hint style="info" %}
+se non sai cosa è un GitBook...
+{% endhint %}
+
+
 
 
 

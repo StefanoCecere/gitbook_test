@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Game Jam](README.md)
+* [Benvenuti](README.md)
 
 ## Giochi
 
