@@ -1,6 +1,6 @@
 # Play Friday
 
-E’ da ottobre 2019 che nella “sala studio” della nostra [Casa del Popolo di Settignano](https://www.facebook.com/settignanocdp/) \(Firenze\) tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi \(età media 8-12\) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
+E’ da ottobre 2019 che nella “sala studio” della nostra [Casa del Popolo di Settignano](https://www.facebook.com/settignanocdp/) (Firenze) tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 8-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
 
 C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e diventino indipendenti nell’organizzarsi a giocarli tra loro o in famiglia. La serata \(iniziamo di solito alle 18:00\) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche fino alle 23:30, complice il sabato senza scuola. Io o altri genitori di solito facciamo da “facilitatori”: introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli. Quasi sempre giochiamo anche noi, ovvio \(facciamo tutto questo perché ci piace giocare, anche con i nostri figli\). Nella stanza è vietato qualsiasi “distrazione digitale” e barare.. il gioco è un divertimento serio e ci sono mille occasioni per sperimentarlo.
 
