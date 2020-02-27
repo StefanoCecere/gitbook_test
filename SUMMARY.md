@@ -2,12 +2,14 @@
 
 * [Benvenuti](README.md)
 
-## Giocare <a id="giochi"></a>
+## Ludo Giocatori <a id="ludosofia"></a>
 
-* [Play Friday](giochi/play-friday.md)
-* [FAQ](giochi/faq.md)
+* [Play Friday](ludosofia/play-friday.md)
+* [FAQ](ludosofia/faq.md)
 
-## GameDev
+## Ludo Creatori <a id="ludocreatori"></a>
 
-* [Untitled](gamedev/untitled.md)
+* [Game A.I.](ludocreatori/untitled.md)
+* [Edutainment](ludocreatori/edutainment.md)
+* [Intelligenza Collettiva](ludocreatori/intelligenza-collettiva.md)
 
