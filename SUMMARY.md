@@ -9,7 +9,7 @@
 
 ## Ludo Creatori <a id="ludocreatori"></a>
 
-* [Game A.I.](ludocreatori/untitled.md)
+* [Game A.I.](ludocreatori/game_ai.md)
 * [Edutainment](ludocreatori/edutainment.md)
 * [Intelligenza Collettiva](ludocreatori/intelligenza-collettiva.md)
 
